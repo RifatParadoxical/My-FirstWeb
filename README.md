@@ -1,7 +1,7 @@
 # My-FirstWeb
 
 
-# Cat Lovers' Paradise 🐱
+# Cat means Bilai 🐱
 
 Welcome to **Cat Lovers' Paradise**, a delightful one-page web project dedicated to celebrating our feline friends! Whether you're a seasoned cat enthusiast or just curious about the world of whiskers, this project is for you.
 
@@ -16,7 +16,7 @@ We welcome contributions from fellow cat enthusiasts! If you'd like to enhance o
 
 ## Feedback and Support
 
-Have a suggestion or spotted a bug? Reach out to us via the [Issues]() section. We appreciate your paw-sitive vibes!
+Have a suggestion or spotted a bug? Reach out to us via the [Issues](https://github.com/RifatParadoxical/My-FirstWeb/issues) section. We appreciate your paw-sitive vibes!
 
 ## Spread the Love
 
