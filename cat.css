@@ -1,0 +1,47 @@
+h1{
+	background-color: blue;
+	color:white;
+	top: 0px;
+	margin-top: -10px;
+	width: calc(100%);
+	border-radius: 5px 5px 0 0;
+}
+img{
+	border: solid 10px;
+	border-radius: 10px 20px 10px 20px;
+	padding: 20px 10px 20px 10px;
+	min-width: 300px;
+	min-height: 300px;
+	margin: 10px;
+}
+.radio{
+	font-weight: bold;
+	font-style: italic;
+	font-size: 25px;
+}
+button{
+	margin: 30px;
+	text-align: center;
+	height: 50px;
+	width: 120px;
+	background-color: orange;
+	color: white;
+}
+button:hover{
+	background-color: cyan;
+	color: black;
+}
+body{
+	background-color: gray;
+	height: 100vh;
+	font-size: 2em;
+	font-family: Verdana, Tahoma, sans-serif;
+}
+.input{
+	width: 100vw;
+	padding-bottom: 20px ;
+	padding-top: 20px;
+}
+a:hover{
+ color: rgb(255, 48, 48);
+}
